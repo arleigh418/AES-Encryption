@@ -14,7 +14,7 @@ DEFAULT_ENTROPY = 32
 
 
 def read_control():
-    with open(r'AES256\Control.txt',encoding='UTF-8-sig',mode='r') as config:
+    with open(r'AES_Encryption\Control.txt',encoding='UTF-8-sig',mode='r') as config:
         config_detail = config.readlines()
         status = 0
         for config in config_detail:

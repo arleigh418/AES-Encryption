@@ -1,2 +1,2 @@
-﻿Key->D:\Trading Strategy_EX\Chapter3\AES256\
-Encrype->D:\Trading Strategy_EX\Chapter3\AES256\
+﻿Key->D:\key\
+Encrype->D:\key\
